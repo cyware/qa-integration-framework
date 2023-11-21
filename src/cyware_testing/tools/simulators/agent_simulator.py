@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Cyware agents load simulator
-# Copyright (C) 2015-2023, Cyware Inc.
+# Copyright (C) 2015-2023, KhulnaSoft Ltd.
 # January 28, 2020.
 #
 # This program is free software; you can redistribute it

@@ -1,6 +1,6 @@
 """
-Copyright (C) 2015-2023, Cyware Inc.
-Created by Cyware, Inc. <info@cyware.com>.
+Copyright (C) 2015-2023, KhulnaSoft Ltd.
+Created by Cyware, Inc. <info@khulnasoft.com>.
 This program is free software; you can redistribute it and/or modify it under the terms of GPLv2
 """
 import shutil
@@ -45,7 +45,7 @@ setup(
     description='Cyware testing utilities to help programmers automate tests',
     url='https://github.com/cyware',
     author='Cyware',
-    author_email='hello@cyware.com',
+    author_email='hello@cyware.khulnasoft.com',
     license='GPLv2',
     packages=find_packages(where='src'),
     package_dir={'cyware_testing': 'src/cyware_testing'},
